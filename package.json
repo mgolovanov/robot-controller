@@ -1,0 +1,19 @@
+{
+  "name": "robot-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "async": "^2.6.1",
+    "debug": "^4.1.0",
+    "wowweemip": "^1.0.2",
+    "xpc-connection": "https://github.com/mgolovanov/node-xpc-connection/tarball/master"
+  }
+}
